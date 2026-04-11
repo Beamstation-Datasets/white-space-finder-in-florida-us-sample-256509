@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "expansion",
+  "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Florida that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
+  "config_name": "White Space Finder in Florida, US",
+  "export_job_id": "d115b858-85a7-4c4b-9402-185783429619",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 256509,
+  "location_name": "Florida",
+  "location_type": "state",
+  "repo_name": "white-space-finder-in-florida-us-sample-256509",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/256509/beamstation_256509_food_and_drink-us-fl_SAMPLE_DIST.csv",
+  "sample_pct": 12.5,
+  "sample_records": 1,
+  "sample_sha256": "01720acab4fdc3dbccb805c54ebeb6b9361e7bef883336506da6f9ecd8fafae4",
+  "sample_size_bytes": 19580,
+  "total_records": 8,
+  "updated_at": "2026-04-07T16:38:55.523501+00:00"
+}
