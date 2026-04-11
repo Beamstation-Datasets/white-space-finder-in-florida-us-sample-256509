@@ -1,0 +1,12 @@
+{
+  "export_job_id": "d115b858-85a7-4c4b-9402-185783429619",
+  "id_short": 256509,
+  "published_at": "2026-04-11T19:09:29Z",
+  "repo_name": "white-space-finder-in-florida-us-sample-256509",
+  "sample_asset_name": "beamstation_256509_food_and_drink-us-fl_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/256509/beamstation_256509_food_and_drink-us-fl_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "01720acab4fdc3dbccb805c54ebeb6b9361e7bef883336506da6f9ecd8fafae4",
+  "sample_size_bytes": 19580,
+  "total_records": 8
+}
