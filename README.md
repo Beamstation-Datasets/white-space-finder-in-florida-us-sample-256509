@@ -9,9 +9,9 @@
 | Dataset ID | `256509` |
 | Location | Florida |
 | Category | Restaurants |
-| Full dataset size | 8 records |
-| Free sample size | 1 records (12.5%) |
-| Last export | 2026-04-14T22:31:35.283889+00:00 |
+| Full dataset size | 7 records |
+| Free sample size | 1 records (14.29%) |
+| Last export | 2026-04-22T01:33:13.207607+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-florida-us-sample-256509/releases/download/sample-latest/beamstation_256509_food_and_drink-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
